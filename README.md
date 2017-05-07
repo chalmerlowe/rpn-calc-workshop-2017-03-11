@@ -4,7 +4,7 @@ The purpose of this project is to create a generalized calculator engine for
 use in Python workshops teaching how to use `git`, pull requests, and other
 open-source contribution processes.
 
-
+bob
 ## The Calculator
 
 This calculator uses
